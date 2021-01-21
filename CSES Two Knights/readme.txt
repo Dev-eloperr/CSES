@@ -7,7 +7,7 @@ for k==2, Two knights can be placed anywhere
 
 for k>2,
 
-3 x 3 : Total possible places = 28
+3 x 3 : Total possible places = 36
 
 4 x 4 : Total possible places = 120
 
